@@ -1,0 +1,45 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<repository xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xmlns = "http://www.tibco.com/xmlns/repo/types/2002">
+	<globalVariables>
+		<globalVariable>
+			<name>Host</name>
+			<value>ewib.nbp.pl</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1626856439994</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>Method</name>
+			<value>GET</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1626856440025</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>Port</name>
+			<value>443</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>Integer</type>
+			<modTime>1626856440041</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>RequestURI</name>
+			<value>"/plewibnra?dokNazwa=plewibnra.txt"</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1626856486745</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>Timeout</name>
+			<value>30000</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>Integer</type>
+			<modTime>1626856486776</modTime>
+		</globalVariable>
+	</globalVariables>
+</repository>

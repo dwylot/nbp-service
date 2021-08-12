@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<repository xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xmlns = "http://www.tibco.com/xmlns/repo/types/2002">
+	<globalVariables>
+		<globalVariable>
+			<name>BW_GLOBAL_TRUSTED_CA_STORE</name>
+			<value>file:///C:\git\tibco\nbp-service\ws\nbp-service\security</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1626791981737</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>Deployment</name>
+			<value>nbp-service</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1628687021096</modTime>
+		</globalVariable>
+	</globalVariables>
+</repository>

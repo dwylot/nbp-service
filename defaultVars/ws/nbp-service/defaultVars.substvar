@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<repository xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xmlns = "http://www.tibco.com/xmlns/repo/types/2002">
+	<globalVariables>
+		<globalVariable>
+			<name>aa</name>
+			<value>"?dokNazwa=plewiba.xml"</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1617193845837</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>host</name>
+			<value></value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1505305053237</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>port</name>
+			<value>9548</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>Integer</type>
+			<modTime>1505305053262</modTime>
+		</globalVariable>
+	</globalVariables>
+</repository>
